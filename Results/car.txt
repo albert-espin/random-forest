@@ -1,0 +1,76 @@
+Data set: car
+	Training model for car data set (number of trees: 50, number of splitting features: 1)
+		Features (in order of importance):
+			(1) ('safety', 0.193)
+			(2) ('persons', 0.175)
+			(3) ('buying', 0.172)
+			(4) ('doors', 0.162)
+			(5) ('maint', 0.158)
+			(6) ('lug_boot', 0.141)
+		Test accuracy: 0.786
+	Training model for car data set (number of trees: 50, number of splitting features: 2)
+		Features (in order of importance):
+			(1) ('maint', 0.18)
+			(2) ('doors', 0.179)
+			(3) ('persons', 0.165)
+			(4) ('safety', 0.164)
+			(5) ('lug_boot', 0.162)
+			(6) ('buying', 0.151)
+		Test accuracy: 0.954
+	Training model for car data set (number of trees: 50, number of splitting features: 3)
+		Features (in order of importance):
+			(1) ('doors', 0.206)
+			(2) ('lug_boot', 0.184)
+			(3) ('maint', 0.176)
+			(4) ('buying', 0.163)
+			(5) ('persons', 0.161)
+			(6) ('safety', 0.111)
+		Test accuracy: 0.983
+	Training model for car data set (number of trees: 50, number of splitting features: 4)
+		Features (in order of importance):
+			(1) ('doors', 0.227)
+			(2) ('lug_boot', 0.202)
+			(3) ('maint', 0.17)
+			(4) ('persons', 0.153)
+			(5) ('buying', 0.15)
+			(6) ('safety', 0.099)
+		Test accuracy: 0.983
+	Training model for car data set (number of trees: 100, number of splitting features: 1)
+		Features (in order of importance):
+			(1) ('safety', 0.189)
+			(2) ('persons', 0.176)
+			(3) ('maint', 0.169)
+			(4) ('buying', 0.164)
+			(5) ('doors', 0.159)
+			(6) ('lug_boot', 0.143)
+		Test accuracy: 0.85
+	Training model for car data set (number of trees: 100, number of splitting features: 2)
+		Features (in order of importance):
+			(1) ('doors', 0.18)
+			(2) ('maint', 0.173)
+			(3) ('buying', 0.173)
+			(4) ('lug_boot', 0.162)
+			(5) ('persons', 0.159)
+			(6) ('safety', 0.153)
+		Test accuracy: 0.977
+	Training model for car data set (number of trees: 100, number of splitting features: 3)
+		Features (in order of importance):
+			(1) ('doors', 0.205)
+			(2) ('maint', 0.183)
+			(3) ('lug_boot', 0.18)
+			(4) ('buying', 0.167)
+			(5) ('persons', 0.156)
+			(6) ('safety', 0.108)
+		Test accuracy: 0.977
+	Training model for car data set (number of trees: 100, number of splitting features: 4)
+		Features (in order of importance):
+			(1) ('doors', 0.224)
+			(2) ('lug_boot', 0.207)
+			(3) ('maint', 0.165)
+			(4) ('buying', 0.153)
+			(5) ('persons', 0.151)
+			(6) ('safety', 0.099)
+		Test accuracy: 0.983
+	Mean accuracy (among parameter setups): 0.936 ± 0.071
+
+

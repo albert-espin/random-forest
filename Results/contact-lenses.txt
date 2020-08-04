@@ -1,0 +1,46 @@
+Data set: contact-lenses
+	Training model for contact-lenses data set (number of trees: 50, number of splitting features: 1)
+		Features (in order of importance):
+			(1) ('age', 0.291)
+			(2) ('spectacle-prescrip', 0.246)
+			(3) ('tear-prod-rate', 0.246)
+			(4) ('astigmatism', 0.218)
+		Test accuracy: 0.8
+	Training model for contact-lenses data set (number of trees: 50, number of splitting features: 2)
+		Features (in order of importance):
+			(1) ('tear-prod-rate', 0.289)
+			(2) ('age', 0.265)
+			(3) ('astigmatism', 0.225)
+			(4) ('spectacle-prescrip', 0.221)
+		Test accuracy: 1.0
+	Training model for contact-lenses data set (number of trees: 50, number of splitting features: 3)
+		Features (in order of importance):
+			(1) ('age', 0.278)
+			(2) ('tear-prod-rate', 0.27)
+			(3) ('astigmatism', 0.235)
+			(4) ('spectacle-prescrip', 0.217)
+		Test accuracy: 1.0
+	Training model for contact-lenses data set (number of trees: 100, number of splitting features: 1)
+		Features (in order of importance):
+			(1) ('age', 0.289)
+			(2) ('tear-prod-rate', 0.245)
+			(3) ('astigmatism', 0.234)
+			(4) ('spectacle-prescrip', 0.231)
+		Test accuracy: 0.8
+	Training model for contact-lenses data set (number of trees: 100, number of splitting features: 2)
+		Features (in order of importance):
+			(1) ('tear-prod-rate', 0.29)
+			(2) ('age', 0.284)
+			(3) ('astigmatism', 0.224)
+			(4) ('spectacle-prescrip', 0.201)
+		Test accuracy: 1.0
+	Training model for contact-lenses data set (number of trees: 100, number of splitting features: 3)
+		Features (in order of importance):
+			(1) ('age', 0.264)
+			(2) ('tear-prod-rate', 0.262)
+			(3) ('astigmatism', 0.247)
+			(4) ('spectacle-prescrip', 0.227)
+		Test accuracy: 1.0
+	Mean accuracy (among parameter setups): 0.933 ± 0.094
+
+

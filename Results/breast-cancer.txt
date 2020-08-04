@@ -1,0 +1,76 @@
+Data set: breast-cancer
+	Training model for breast-cancer data set (number of trees: 50, number of splitting features: 1)
+		Features (in order of importance):
+			(1) ('Normal Nucleoli', 0.122)
+			(2) ('Clump Thickness', 0.122)
+			(3) ('Uniformity of Cell Shape', 0.117)
+			(4) ('Single Epithelial Cell Size', 0.116)
+			(5) ('Bare Nuclei', 0.115)
+			(6) ('Bland Chromatin', 0.114)
+			(7) ('Uniformity of Cell Size', 0.11)
+			(8) ('Marginal Adhesion', 0.104)
+			(9) ('Mitoses', 0.08)
+		Test accuracy: 0.971
+	Training model for breast-cancer data set (number of trees: 50, number of splitting features: 3)
+		Features (in order of importance):
+			(1) ('Bare Nuclei', 0.158)
+			(2) ('Clump Thickness', 0.151)
+			(3) ('Uniformity of Cell Shape', 0.132)
+			(4) ('Normal Nucleoli', 0.119)
+			(5) ('Uniformity of Cell Size', 0.118)
+			(6) ('Marginal Adhesion', 0.104)
+			(7) ('Single Epithelial Cell Size', 0.094)
+			(8) ('Bland Chromatin', 0.087)
+			(9) ('Mitoses', 0.037)
+		Test accuracy: 0.957
+	Training model for breast-cancer data set (number of trees: 50, number of splitting features: 4)
+		Features (in order of importance):
+			(1) ('Bare Nuclei', 0.16)
+			(2) ('Clump Thickness', 0.147)
+			(3) ('Uniformity of Cell Shape', 0.12)
+			(4) ('Normal Nucleoli', 0.109)
+			(5) ('Uniformity of Cell Size', 0.108)
+			(6) ('Single Epithelial Cell Size', 0.105)
+			(7) ('Bland Chromatin', 0.101)
+			(8) ('Marginal Adhesion', 0.099)
+			(9) ('Mitoses', 0.052)
+		Test accuracy: 0.971
+	Training model for breast-cancer data set (number of trees: 100, number of splitting features: 1)
+		Features (in order of importance):
+			(1) ('Clump Thickness', 0.119)
+			(2) ('Single Epithelial Cell Size', 0.118)
+			(3) ('Uniformity of Cell Shape', 0.117)
+			(4) ('Normal Nucleoli', 0.117)
+			(5) ('Bare Nuclei', 0.114)
+			(6) ('Bland Chromatin', 0.112)
+			(7) ('Uniformity of Cell Size', 0.111)
+			(8) ('Marginal Adhesion', 0.111)
+			(9) ('Mitoses', 0.08)
+		Test accuracy: 0.957
+	Training model for breast-cancer data set (number of trees: 100, number of splitting features: 3)
+		Features (in order of importance):
+			(1) ('Bare Nuclei', 0.156)
+			(2) ('Clump Thickness', 0.138)
+			(3) ('Uniformity of Cell Size', 0.117)
+			(4) ('Single Epithelial Cell Size', 0.115)
+			(5) ('Uniformity of Cell Shape', 0.113)
+			(6) ('Marginal Adhesion', 0.109)
+			(7) ('Normal Nucleoli', 0.107)
+			(8) ('Bland Chromatin', 0.102)
+			(9) ('Mitoses', 0.042)
+		Test accuracy: 0.957
+	Training model for breast-cancer data set (number of trees: 100, number of splitting features: 4)
+		Features (in order of importance):
+			(1) ('Bare Nuclei', 0.185)
+			(2) ('Clump Thickness', 0.147)
+			(3) ('Uniformity of Cell Shape', 0.116)
+			(4) ('Uniformity of Cell Size', 0.111)
+			(5) ('Marginal Adhesion', 0.108)
+			(6) ('Normal Nucleoli', 0.106)
+			(7) ('Bland Chromatin', 0.097)
+			(8) ('Single Epithelial Cell Size', 0.095)
+			(9) ('Mitoses', 0.036)
+		Test accuracy: 0.971
+	Mean accuracy (among parameter setups): 0.964 ± 0.007
+
+
