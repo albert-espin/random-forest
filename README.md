@@ -8,9 +8,11 @@ The objective of this work is the evaluation of the a custom implementation of R
 
 | | |
 |-|-|
-| **Author** | Albert Espín |
+| **Author** | Albert Espín (except datasets, gathered from [UCI's Machine Learning repository](http://archive.ics.uci.edu/ml)) |
 | **Date**  | April 2019  |
+| **Code license**  | MIT |
 | **Report license**  | Creative Commons Attribution, Non-Commercial, Non-Derivative |
+|**Dataset licence** | Licenses specified for each dataset in [UCI's Machine Learning repository](http://archive.ics.uci.edu/ml) |
 
 
 ## Main pseudo-codes
